@@ -10,5 +10,5 @@ Ideal for students, programming enthusiasts, and anyone looking to practice or i
 
 ## Authors
 
-- [@man](https://www.github.com/octokatherine)
+- [@manojchoudhary404](https://github.com/manojchoudhary404)
 
